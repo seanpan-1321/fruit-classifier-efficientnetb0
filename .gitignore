@@ -1,0 +1,20 @@
+# datasets
+clean_fruit_split/
+real_world_labeled/
+real_world_test_images/
+
+# model weights
+*.pth
+
+# cache
+__pycache__/
+*.pyc
+
+# notebook junk
+.ipynb_checkpoints/
+
+# windows
+Thumbs.db
+
+# mac
+.DS_Store
